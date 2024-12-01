@@ -1,0 +1,27 @@
+Relatório de Atividades e Emoções Detectadas
+==================================================
+
+Atividades Detectadas:
+- hospital (Início: 67.0s, Fim: 72.966666s)
+- coffee table (Início: 92.0s, Fim: 97.966666s)
+- graphics (Início: 12.0s, Fim: 17.966666s)
+- smile (Início: 6.0s, Fim: 11.966666s)
+- smile (Início: 48.0s, Fim: 53.966666s)
+- patient (Início: 67.0s, Fim: 72.966666s)
+- clinic (Início: 67.0s, Fim: 72.966666s)
+- logo (Início: 12.0s, Fim: 17.966666s)
+- medical imaging (Início: 57.0s, Fim: 60.966666s)
+- eyewear (Início: 42.0s, Fim: 47.966666s)
+- health care (Início: 67.0s, Fim: 72.966666s)
+- medical equipment (Início: 67.0s, Fim: 72.966666s)
+- ceiling (Início: 73.0s, Fim: 78.966666s)
+- facial expression (Início: 6.0s, Fim: 11.966666s)
+- facial expression (Início: 48.0s, Fim: 53.966666s)
+- conversation (Início: 110.0s, Fim: 110.833333s)
+- office (Início: 80.0s, Fim: 85.966666s)
+- room (Início: 73.0s, Fim: 78.966666s)
+- table (Início: 92.0s, Fim: 97.966666s)
+- furniture (Início: 92.0s, Fim: 97.966666s)
+- glasses (Início: 42.0s, Fim: 47.966666s)
+
+Emoções Detect::contentReference[oaicite:1]{index=1}
